@@ -5,4 +5,4 @@ Adapun ini merupakan spesifikasi kebutuhan alat dan bahan capstone
 2. Melakukan Exploratory Data Analysis menggunakan python
 3. Data Visualization menggunakan Power BI
 4. Memprediksikan tingkat pengurangan karyawan (forecasting) menggunakan Azure Machine Learning
-5. Dashboard interaktif mengenai Forecasting
+5. Dashboard interaktif mengenai _forecasting_
