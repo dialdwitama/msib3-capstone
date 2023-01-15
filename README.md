@@ -9,4 +9,4 @@ Adapun ini merupakan spesifikasi kebutuhan alat dan bahan capstone
 
 Here is the short video which describes how we solve the problem.
 
-[https://github.com/dialdwitama/Capstone-Cycle3/issues/1#issue-1533697716](https://github.com/dialdwitama/Capstone-Cycle3/issues/url)
+https://drive.google.com/file/d/12i3Jsn-Qj1X-Cazd2X7boxvyJWJyvla6/view?usp=sharing
